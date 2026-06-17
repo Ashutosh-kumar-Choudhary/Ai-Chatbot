@@ -3,4 +3,4 @@ langchain
 langchain-huggingface
 huggingface_hub
 python-dotenv
-travily-python
+tavily-python
